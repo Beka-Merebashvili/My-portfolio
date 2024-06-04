@@ -107,33 +107,27 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Working with Beka was an absolute pleasure. He developed our e-commerce site using React and Next.js with a seamless user experience and robust functionality. His attention to detail and commitment to deadlines were exceptional. We particularly appreciated his ability to suggest innovative solutions to potential issues, demonstrating his deep expertise. We look forward to collaborating on future projects.",
+      name: "Benjamin Nguyen",
+      title: "Upwork client",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Beka completely transformed our corporate website, enhancing both its performance and aesthetics. His proficiency with React and Next.js was evident throughout the project. He was highly responsive and adapted well to our feedback. The end result was a modern, user-friendly website that has received numerous compliments from our clients. I highly recommend [Your Name] for any web development needs.",
+      name: "Priya Patel",
+      title: "Upwork client",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Beka delivered an outstanding custom web application tailored to our specific business needs. His skills in React and Next.js allowed us to create a dynamic and efficient tool that has significantly improved our workflow. Communication was smooth, and he consistently met or exceeded our expectations. We are extremely satisfied with the results and will definitely hire him again for future projects.",
+      name: "Ethan Martinez",
+      title: "Upwork client",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Beka joined our team as a React and Next.js intern for a three-month period, and his contributions were outstanding. During his internship, he successfully optimized our website's performance and developed several new features that enhanced user engagement. His quick learning ability and strong work ethic were evident from day one. Beka consistently demonstrated initiative and a keen problem-solving mindset, often going above and beyond his assigned tasks. We were very impressed with his technical skills and dedication, and we highly recommend him for any development role.",
+      name: "Lars Svensson",
+      title: "Senior developer at The hub",
     },
   ];
   
