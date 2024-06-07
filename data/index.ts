@@ -199,13 +199,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      path: "https://github.com/Beka-Merebashvili"
     },
     {
       id: 2,
       img: "/twit.svg",
+      path: "https://x.com/merebashvili99"
     },
     {
       id: 3,
       img: "/link.svg",
+      path: "https://www.linkedin.com/in/beka-merebashvili/"
     },
   ];
