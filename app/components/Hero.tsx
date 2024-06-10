@@ -1,4 +1,5 @@
-import { FaLocationArrow } from "react-icons/fa6";
+
+import { FaFileDownload } from "react-icons/fa";
 
 import MagicButton from "./MagicButton";
 import { Spotlight } from "./ui/Spotlight";
@@ -45,10 +46,10 @@ const Hero = () => {
             Hi! I&apos;m Beka, a Next.js Developer based in Georgia.
           </p>
 
-          <a href="#about">
+          <a href="/docs/Beka_Merebashvili.pdf" download="Beka_Merebashvili.pdf">
             <MagicButton
-              title="Show my work"
-              icon={<FaLocationArrow />}
+              title="Download CV"
+              icon={<FaFileDownload /> }
               position="right"
             />
           </a>

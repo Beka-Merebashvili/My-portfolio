@@ -75,7 +75,7 @@ export const navItems = [
       title: "Digital-Marketing-Agency",
       des: "Modern web app for seamless meeting booking, payment processing, and service messaging.",
       img: "/digital-screen.png",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg",  "/fm.svg"],
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/nodemailer.svg", "/fm.svg"],
       link: "https://digital-marketing-agency-psi.vercel.app",
     },
     {
@@ -83,7 +83,7 @@ export const navItems = [
       title: "Github user search app",
       des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
       img: "Github-user-search-app-preview.jpg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/stream.svg",],
+      iconLists: ["/re.svg", "/ts.svg", "/styled.png",],
       link: "https://github-user-search-app-coral.vercel.app",
     },
     {
@@ -99,7 +99,7 @@ export const navItems = [
       title: "Notion Clone",
       des: "A Notion clone featuring responsive design, a contact form for user emails, and seamless animations via Framer Motion.",
       img: "/notion-img.png",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg",, "/gsap.svg"],
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/nodemailer.svg", "/fm.svg"],
       link: "https://notion-clone-smoky.vercel.app",
     },
   ];
