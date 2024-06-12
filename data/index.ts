@@ -75,7 +75,7 @@ export const navItems = [
       title: "Digital-Marketing-Agency",
       des: "Modern web app for seamless meeting booking, payment processing, and service messaging.",
       img: "/digital-screen.png",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/nodemailer.svg", "/fm.svg"],
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
       link: "https://digital-marketing-agency-psi.vercel.app",
     },
     {
@@ -91,7 +91,7 @@ export const navItems = [
       title: "Auth app",
       des: "Powered authentication application integrated with Clerk. Users can sign in with Gmail, GitHub, or password.",
       img: "/auth-img.png",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg",  "/c.svg"],
       link: "https://clerk-auth-ten.vercel.app",
     },
     {
@@ -99,7 +99,7 @@ export const navItems = [
       title: "Notion Clone",
       des: "A Notion clone featuring responsive design, a contact form for user emails, and seamless animations via Framer Motion.",
       img: "/notion-img.png",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/nodemailer.svg", "/fm.svg"],
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
       link: "https://notion-clone-smoky.vercel.app",
     },
   ];
@@ -107,25 +107,25 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Working with Beka was an absolute pleasure. He developed our e-commerce site using React and Next.js with a seamless user experience and robust functionality. His attention to detail and commitment to deadlines were exceptional. We particularly appreciated his ability to suggest innovative solutions to potential issues, demonstrating his deep expertise. We look forward to collaborating on future projects.",
+        "Working with Beka was a pleasure. He developed our e-commerce site using React and Next.js, delivering a seamless user experience and robust functionality. His attention to detail, commitment to deadlines, and innovative solutions were exceptional. We look forward to future collaborations.",
       name: "Benjamin Nguyen",
       title: "Upwork client",
     },
     {
       quote:
-        "Beka completely transformed our corporate website, enhancing both its performance and aesthetics. His proficiency with React and Next.js was evident throughout the project. He was highly responsive and adapted well to our feedback. The end result was a modern, user-friendly website that has received numerous compliments from our clients. I highly recommend [Your Name] for any web development needs.",
+        "Beka transformed our corporate website, showcasing his React and Next.js expertise. He was responsive and adapted well to feedback, delivering a modern, user-friendly site praised by our clients. Highly recommend him for web development.",
       name: "Priya Patel",
       title: "Upwork client",
     },
     {
       quote:
-        "Beka delivered an outstanding custom web application tailored to our specific business needs. His skills in React and Next.js allowed us to create a dynamic and efficient tool that has significantly improved our workflow. Communication was smooth, and he consistently met or exceeded our expectations. We are extremely satisfied with the results and will definitely hire him again for future projects.",
+        "Beka delivered an outstanding custom web application tailored to our business needs. His expertise in React and Next.js improved our workflow significantly. Communication was smooth, and he consistently exceeded our expectations. We are extremely satisfied and will hire him again for future projects.",
       name: "Ethan Martinez",
       title: "Upwork client",
     },
     {
       quote:
-        "Beka joined our team as a React and Next.js intern for a three-month period, and his contributions were outstanding. During his internship, he successfully optimized our website's performance and developed several new features that enhanced user engagement. His quick learning ability and strong work ethic were evident from day one. Beka consistently demonstrated initiative and a keen problem-solving mindset, often going above and beyond his assigned tasks. We were very impressed with his technical skills and dedication, and we highly recommend him for any development role.",
+        "Beka, our React and Next.js intern for three months, made outstanding contributions. He optimized our website's performance, developed new user engagement features, and showcased quick learning and a strong work ethic. Beka consistently took initiative and solved problems beyond his tasks. We were very impressed with his technical skills and dedication, and highly recommend him for any development role.",
       name: "Lars Svensson",
       title: "Senior developer at The hub",
     },
