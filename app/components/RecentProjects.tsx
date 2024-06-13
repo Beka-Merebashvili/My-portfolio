@@ -5,10 +5,11 @@ import { FaLocationArrow } from "react-icons/fa6";
 import { projects } from "@/data";
 import { PinContainer } from "./ui/Pin";
 import Link from "next/link";
+import MagicButton from "./MagicButton";
 
 const RecentProjects = () => {
   return (
-    <div className="py-20" id="projects">
+    <div className="py-20 flex flex-col items-center justify-center gap-6" id="projects">
       <h1 className="heading">
         A small selection of{" "}
         <span className="text-purple">recent projects</span>
@@ -73,9 +74,13 @@ const RecentProjects = () => {
                 </div>
               </div>
             </PinContainer>
+
           </div>
         ))}
       </div>
+      <Link href="https://github.com/Beka-Merebashvili?tab=repositories" target="_blank">
+      <MagicButton title={"Discover all my projects"} icon={<FaLocationArrow />} position={"right"} />
+      </Link>
     </div>
   );
 };

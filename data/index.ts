@@ -81,7 +81,7 @@ export const navItems = [
     {
       id: 2,
       title: "Github user search app",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+      des: "Powerful web application built with React and TypeScript that allows users to search for GitHub users and explore their profiles and repositories.",
       img: "Github-user-search-app-preview.jpg",
       iconLists: ["/re.svg", "/ts.svg", "/styled.png",],
       link: "https://github-user-search-app-coral.vercel.app",
@@ -125,7 +125,7 @@ export const navItems = [
     },
     {
       quote:
-        "Beka, our React and Next.js intern for three months, made outstanding contributions. He optimized our website's performance, developed new user engagement features, and showcased quick learning and a strong work ethic. Beka consistently took initiative and solved problems beyond his tasks. We were very impressed with his technical skills and dedication, and highly recommend him for any development role.",
+        "Beka, our React and Next.js intern for three months, made outstanding contributions. He optimized our website's performance, developed new user engagement features, and showed quick learning and a strong work ethic. Beka consistently took initiative and solved problems beyond his tasks. We highly recommend him for any development role.",
       name: "Lars Svensson",
       title: "Senior developer at The hub",
     },
