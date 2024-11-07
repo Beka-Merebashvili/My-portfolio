@@ -72,6 +72,14 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
+      title: "CarePulse",
+      des: "Users can book appointments with their preferred doctors, and the site includes an admin dashboard. Upon confirmation or cancellation of their booking, users receive a notification via SMS.",
+      img: "/HealthCare.png",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "shadcn-logo.png", "/appwrite-logo.png"],
+      link: "https://health-care-app-livid.vercel.app/",
+    },
+    {
+      id: 2,
       title: "Digital-Marketing-Agency",
       des: "Modern web app for seamless meeting booking, payment processing, and service messaging.",
       img: "/digital-screen.png",
@@ -79,7 +87,7 @@ export const navItems = [
       link: "https://digital-marketing-agency-psi.vercel.app",
     },
     {
-      id: 2,
+      id: 3,
       title: "Github user search app",
       des: "Powerful web application built with React and TypeScript that allows users to search for GitHub users and explore their profiles and repositories.",
       img: "Github-user-search-app-preview.jpg",
@@ -87,21 +95,14 @@ export const navItems = [
       link: "https://github-user-search-app-coral.vercel.app",
     },
     {
-      id: 3,
+      id: 4,
       title: "Auth app",
       des: "Powered authentication application integrated with Clerk. Users can sign in with Gmail, GitHub, or password.",
       img: "/auth-img.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg",  "/c.svg"],
       link: "https://clerk-auth-ten.vercel.app",
     },
-    {
-      id: 4,
-      title: "Notion Clone",
-      des: "A Notion clone featuring responsive design, a contact form for user emails, and seamless animations via Framer Motion.",
-      img: "/notion-img.png",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
-      link: "https://notion-clone-smoky.vercel.app",
-    },
+  
   ];
   
   export const testimonials = [

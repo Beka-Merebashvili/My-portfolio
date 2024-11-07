@@ -46,7 +46,7 @@ const Hero = () => {
             Hi! I&apos;m Beka, a Next.js Developer based in Georgia.
           </p>
 
-          <a href="/docs/Beka_Merebashvili.pdf" download="Beka_Merebashvili.pdf">
+          <a href="/docs/Beka-Merebashvili.pdf" download="Beka-Merebashvili.pdf">
             <MagicButton
               title="Download CV"
               icon={<FaFileDownload /> }
